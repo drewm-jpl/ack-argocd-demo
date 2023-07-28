@@ -1,0 +1,7 @@
+apiVersion: v2
+name: demo
+version: 0.0.1
+# dependencies:
+#   - name: airflow
+#     version: 1.10.0
+#     repository: "https://charts.bitnami.com/bitnami"
